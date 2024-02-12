@@ -5,7 +5,8 @@ This repository contains the code and resources for the JavaScript course. The c
 ## Topics
 
 * **Basic JavaScript**
-    * [ ] Variables
+    * [x] Variables
+    * [x] Primitive Data
     * [ ] Operators
     * [ ] Control flow
     * [ ] Functions
